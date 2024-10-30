@@ -260,7 +260,89 @@ body{
     line-height: 50.4px;
     text-align: center;    
 }
-
+.comments{
+    width: 1378px;
+    height: 462px;
+    top: 3164px;
+    left: 61px;
+    margin: 64px 61px;
+}
+.comments_div{
+    display: flex;
+    align-items: center;
+}
+.comments_left{
+    width: 60%;
+    height: 150px;
+}
+.comments_left h1{
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 50.4px;
+    text-align: left;
+    color: #333333;   
+}
+.comments_left h1 span{
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 50.4px;
+    text-align: left;
+}
+.comments_left h2{
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 36.4px;
+    text-align: left;
+    color: #234278;  
+    margin-top: 10px;  
+}
+.comments_right{
+    width: 40%;
+    height: 150px;
+}
+.comments_right h1{
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 33.6px;
+    text-align: left;
+    color: #808182;    
+}
+.comments_divs{
+    width: 100%;
+    height: 320px;
+    display: flex;
+    align-items: center;
+}
+.divs_card{
+    width: 416px;
+    height: 320px;
+    top: 3306px;
+    left: 61px;
+    border-radius: 12px;
+    background: #FFFFFF;    
+}
+.divs_card img{
+    width: 368px;
+    height: 146px;
+    margin: 25px 25px;
+    border-radius: 8px;
+}
+.divs_card h1{
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 33.6px;
+    text-align: left;
+    color: #333333;  
+    margin: 0px 25px;  
+}
+.divs_card h2{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 21.6px;
+    text-align: left;
+    color: #333333;   
+    margin: 15px 25px;   
+}
 .part__four{
     margin-top: 55px;
     width: 100%;
